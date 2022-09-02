@@ -7,4 +7,4 @@
 <br>
 
 #### ✔ react router, styled components, react hook 기술 공부
-#### ✔ api사이트에서 json을 이용한 데이터 받아오기
+#### ✔ api사이트에서 json을 이용한 데이터 받아오기 
